@@ -663,7 +663,9 @@ section {
   background: #ed502e;
   color: #fff;
   text-decoration: none;
+
 }
+
 
 /*--------------------------------------------------------------
 # Counts
@@ -1017,7 +1019,7 @@ section {
   background: #f1775d;
 }
 
-.services .icon-box:hover h4,
+.services .icon-box:hover h4 a,
 .services .icon-box:hover p {
   color: #fff;
 }
