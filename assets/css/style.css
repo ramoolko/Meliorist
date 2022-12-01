@@ -141,7 +141,7 @@ h6 {
 }
 
 #header .logo img {
-  max-height: 70px;
+  max-height: 65px;
 }
 
 /*--------------------------------------------------------------
@@ -274,12 +274,13 @@ h6 {
 * Mobile Navigation 
 */
 .mobile-nav-toggle {
-  color: #0b2341;
-  font-size: 28px;
-  cursor: pointer;
-  display: none;
-  line-height: 0;
-  transition: 0.5s;
+    color: #0b2341;
+    font-size: 28px;
+    cursor: pointer;
+    display: none;
+    line-height: 0;
+    transition: 0.5s;
+    margin-left: 18px;
 }
 
 .mobile-nav-toggle.bi-x {
@@ -311,7 +312,7 @@ h6 {
 .navbar-mobile .mobile-nav-toggle {
   position: absolute;
   top: 15px;
-  right: 15px;
+  right: 2px;
 }
 
 .navbar-mobile ul {
